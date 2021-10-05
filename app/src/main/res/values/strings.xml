@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task Manager Free</string>
+    <string-array name="ArrayTareas">
+        <item>Sin categoria</item>
+        <item>Domestica</item>
+        <item>Academica</item>
+        <item>Profesional</item>
+    </string-array>
+    <string-array name="ArrayEstado">
+        <item>pendiente</item>
+        <item>en proceso</item>
+        <item>finalizada</item>
+    </string-array>
+
+</resources>
